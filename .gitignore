@@ -1,4 +1,5 @@
-/node_modules
-yarn.lock
+/Done_Tasks_JS/node_modules
+/Done_Tasks_JS/yarn.lock
 /.idea
-package.json
+/Done_Tasks_JS/package.json
+
